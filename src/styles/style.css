@@ -107,8 +107,13 @@ i:hover{
 
 #bk{
         height: 300px;
-        width:300px;
+        width:222px;
         /* color:black; */
         /* background-color: black; */
         box-shadow:  3px 3px grey;
+}
+
+#img{
+    margin-top: -50px;
+    margin-left: 4px;
 }

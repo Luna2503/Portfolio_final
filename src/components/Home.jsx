@@ -1,8 +1,8 @@
 import React from 'react'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import resume from '../assets/Arya-Resume.pdf'
-import img1 from '../assets/1.jpg'
+import resume from '../assets/Aryalakshmi.pdf'
+import img1 from '../assets/6.jpg'
 import '../styles/style.css'
 function Home() {
   return (
@@ -26,7 +26,7 @@ function Home() {
             <div className=''>
             <div id='tt'>
               <div id='bk'>
-                  <img src={img1} height={"300px"} width={"auto"} alt="" />
+                  <img id='img' src={img1} height={"350px"} width={"auto"} alt="" />
               </div>
             </div>
             </div>
